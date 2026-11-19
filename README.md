@@ -3,7 +3,7 @@
 A machine learning classification project that predicts whether a Titanic passenger survived, based on details such as ticket class, sex, age, family size and fare.
 
 ## Project Links
-- **Live App:** ADD_YOUR_STREAMLIT_LINK_HERE
+- **Live App:** https://titanic-survival-predictor-583.streamlit.app/
 - **Demo Video:** ADD_YOUR_DEMO_LINK_HERE
 
 ## Dataset
