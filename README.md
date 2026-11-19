@@ -4,7 +4,7 @@ A machine learning classification project that predicts whether a Titanic passen
 
 ## Project Links
 - **Live App:** https://titanic-survival-predictor-583.streamlit.app/
-- **Demo Video:** ADD_YOUR_DEMO_LINK_HERE
+- **Demo Video:** https://drive.google.com/file/d/1xCyf5EE8f5ZE71qL6NcEUuYw5tz21QWV/view?usp=drive_link
 
 ## Dataset
 Titanic dataset from Kaggle ("Titanic - Machine Learning from Disaster"), with 891 passengers and 12 columns.
